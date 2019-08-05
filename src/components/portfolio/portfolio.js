@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-export default class About extends Component({
+export default class Portfolio extends Component({
     render() {
         return (
 
