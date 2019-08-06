@@ -13,8 +13,9 @@ export default class About extends Component {
             <p>
               Web Developer with 4 years experience in analysis, design,
               development, maintenance, testing, and deployment of web
-              applications. Adept at learning and adapting new technologies and
-              concepts.
+              applications. Passionate about software engineering and learning
+              new technologies. Adept at working in new environments,
+              flexibility, communication, and teamwork.
             </p>
             <div className="row">
               <div className="columns contact-details">
