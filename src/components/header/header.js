@@ -50,11 +50,8 @@ export default class Header extends Component {
               <h1 className="responsive-headline">I'm Andrew Kim.</h1>
               <h3>
                 I'm a <span>Full Stack Developer</span>. I'm enthusiastic,
-                motivated, and passionate about software engineering. Let's{" "}
-                <a className="smoothscroll" href="#about">
-                  start scrolling
-                </a>
-                and learn more{" "}
+                motivated, and passionate about software engineering. Let's
+                start scrolling and learn more{" "}
                 <a className="smoothscroll" href="#about">
                   about me
                 </a>
