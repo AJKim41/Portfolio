@@ -13,9 +13,10 @@ export default class Portfolio extends Component {
               className="bgrid-quarters s-bgrid-thirds cf"
             >
               <div className="columns portfolio-item">
+                <p style={{ margin: "0 0 5px 0;" }}>Movie Guess Game</p>
                 <div className="item-wrap">
                   <a href="#modal-01" title>
-                    <img alt="" src="images/portfolio/coffee.jpg" />
+                    <img alt="" src="images/portfolio/retrocam.jpg" />
                     <div className="overlay">
                       <div className="portfolio-item-meta">
                         <h5>Movie Guess Game</h5>
@@ -30,6 +31,7 @@ export default class Portfolio extends Component {
               </div>{" "}
               {/* item end */}
               <div className="columns portfolio-item">
+                <p style={{ margin: "0 0 5px 0;" }}>Star Wars RPG</p>
                 <div className="item-wrap">
                   <a href="#modal-02" title>
                     <img alt="" src="images/portfolio/console.jpg" />
@@ -47,9 +49,10 @@ export default class Portfolio extends Component {
               </div>{" "}
               {/* item end */}
               <div className="columns portfolio-item">
+                <p style={{ margin: "0 0 5px 0;" }}>Friend Finder</p>
                 <div className="item-wrap">
                   <a href="#modal-03" title>
-                    <img alt="" src="images/portfolio/judah.jpg" />
+                    <img alt="" src="images/portfolio/coffee.jpg" />
                     <div className="overlay">
                       <div className="portfolio-item-meta">
                         <h5>Friend Finder</h5>
