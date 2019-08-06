@@ -13,19 +13,8 @@ export default class About extends Component {
             <p>
               Web Developer with 4 years experience in analysis, design,
               development, maintenance, testing, and deployment of web
-              applications. Experienced in using frameworks and libraries
-              building web applications such as React, Jquey, NodeJS,
-              HandlebarsJS, and Bootstrap. Adept understanding of Object
-              Oriented Design and Development. Experience in installing,
-              configuring, creating, managing, monitoring and troubleshooting
-              NodeJS servers. Use of third-party APIs in conjunction with
-              personal script. Experience in using databases/ORMs such as mySQL,
-              Sequelize, MongoDB, and Mongoose. Experience in maintaining
-              databases, query optimization, and database architecting. Team
-              development, communication, and use of repositories to push and
-              pull projects to build applications/software. Experience also with
-              Data Structures and Algorithms. Adept at learning and adapting new
-              technologies and concepts.
+              applications. Adept at learning and adapting new technologies and
+              concepts.
             </p>
             <div className="row">
               <div className="columns contact-details">
