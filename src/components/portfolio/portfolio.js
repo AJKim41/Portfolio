@@ -75,7 +75,7 @@ export default class Portfolio extends Component {
           <div id="modal-01" className="popup-modal mfp-hide">
             <img
               className="scale-with-grid"
-              src="images/portfolio/modals/m-coffee.jpg"
+              src="images/portfolio/retrocam.jpg"
               alt=""
             />
             <div className="description-box">
@@ -117,7 +117,7 @@ export default class Portfolio extends Component {
           <div id="modal-03" className="popup-modal mfp-hide">
             <img
               className="scale-with-grid"
-              src="images/portfolio/modals/m-judah.jpg"
+              src="images/portfolio/modals/m-coffee.jpg"
               alt=""
             />
             <div className="description-box">
