@@ -87,7 +87,7 @@ export default class Portfolio extends Component {
               </span>
             </div>
             <div className="link-box">
-              <a href="https://ajkim41.github.io/Word-Guess-Game/">Details</a>
+              <a href="https://ajkim41.github.io/Word-Guess-Game/">View</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>
@@ -107,9 +107,7 @@ export default class Portfolio extends Component {
               </span>
             </div>
             <div className="link-box">
-              <a href="https://ajkim41.github.io/Star-Wars-RPG-Game/">
-                Details
-              </a>
+              <a href="https://ajkim41.github.io/Star-Wars-RPG-Game/">View</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>
@@ -132,7 +130,7 @@ export default class Portfolio extends Component {
               </span>
             </div>
             <div className="link-box">
-              <a href="https://murmuring-mesa-83851.herokuapp.com">Details</a>
+              <a href="https://murmuring-mesa-83851.herokuapp.com">View</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>
